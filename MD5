@@ -1,5 +1,5 @@
-a516656f98c0dc7f191782062347f00b *DESCRIPTION
-7c03c8780f4439a1030d8f7b17b124e0 *NAMESPACE
+f9356784f0122152bdd40fb99a5b4179 *DESCRIPTION
+17f992f31b0bfc0301a533c1f0b039c3 *NAMESPACE
 8600f677dfd761cb11bfa58071810d99 *R/hdClust.R
 094fb57ca124a5dd6b86b04de563f8c7 *R/hdNetwork.R
 b4cc3051951dd1c758f7eac6c971e488 *R/hidimSurvbon.R
@@ -9,6 +9,9 @@ d69b0704a1724f21d1a617d25ed321bf *R/hidimlasso.R
 0f82dd669e7f02c19b63bc3f1e1f1870 *R/hidimsurv.R
 664a044a4da86563d45eeaab8a880c11 *R/hidimsvc.R
 fabf3937712e1a8c2c888e7143ad5223 *R/hnscc.R
+cdca501773a5679488ad0ba15a3a73ff *R/multicoxa.R
+14ce1ce1fad2d166be0eb87235d92d37 *R/multicoxb.R
+62515a17d0b8eee55c7d2f51a614a052 *R/survdesc.R
 f7f451cc65f5637900fbe6d2765b8a3d *data/hnscc.rda
 ee02e0f312af1b87dfda5b514bb24503 *man/hdClust.Rd
 eaa258bb33e638a19f06655d5587c904 *man/hdNetwork.Rd
@@ -19,3 +22,6 @@ bf1d9e55bf99eee439eb1372153234f4 *man/hidimSurvbon.Rd
 4ed0dab0e87b79987f445ab03c0413a9 *man/hidimSurvlas.Rd
 4849d2c790416350ccfc89bacb9fd88b *man/hidimsvc.Rd
 ab172efef3e90ba97c06d61e27b20298 *man/hnscc.Rd
+eb81a7c0da4760d8c3a9f8a6a5ec2a26 *man/multicoxa.Rd
+6c6a36696f059e5baf0f179b56442d75 *man/multicoxb.Rd
+fb3e2c44ade941c329f1d0314a72af51 *man/survdesc.Rd
